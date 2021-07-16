@@ -918,7 +918,9 @@ form h1 {
   display: -ms-flexbox;
   display: flex;
 }
-
+.glide__slide{
+height: 600px;
+}
 .glide__slide {
   height: 456px;
     background-position: center center;
@@ -932,7 +934,7 @@ form h1 {
   height: 486px;
   opacity: 1;
   filter: none;
-    transform: scale(1.
+    transform: scale(1.)
 }
 .glide__slide--active{
   box-shadow: 0px 0px 19px 4px #3b3030;
