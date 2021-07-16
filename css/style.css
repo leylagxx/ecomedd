@@ -920,7 +920,7 @@ form h1 {
 }
 
 .glide__slide {
-  height: 400px;
+  height: 456px;
     background-position: center center;
     background-size: cover;
     width: 198.667px;
@@ -929,11 +929,10 @@ form h1 {
   transition: 1s;
 }
 .glide__slide--active{
-  height: 400px;
+  height: 486px;
   opacity: 1;
   filter: none;
-  
-  transform: scale(.9);
+    transform: scale(1.
 }
 .glide__slide--active{
   box-shadow: 0px 0px 19px 4px #3b3030;
