@@ -920,16 +920,16 @@ form h1 {
 }
 
 .glide__slide {
-  height: 350px;
+  height: 400px;
     background-position: center center;
     background-size: cover;
     width: 198.667px;
   filter: blur(6px);
   opacity: .7;
-  transition: height 1s;
+  transition: 1s;
 }
 .glide__slide--active{
-  height: 462px;
+  height: 400px;
   opacity: 1;
   filter: none;
 }
