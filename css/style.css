@@ -932,7 +932,6 @@ form h1 {
   height: 462px;
   opacity: 1;
   filter: none;
-  transform: scale(.9);
 }
 .glide__slide--active{
   box-shadow: 0px 0px 19px 4px #3b3030;
