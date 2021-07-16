@@ -48,6 +48,7 @@ function closeActiveClasses() {
         slide.classList.remove('slide-active')
     })
 }
+
 new Glide(".images",{
     type: 'carousel',
     perView: 3,
